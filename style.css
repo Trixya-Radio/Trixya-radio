@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark) {
+    html {
+        background-color:black !important;
+    }
+    .box {
+        background-color:rgb(0, 0, 0) !important;
+    }
+    .input {
+        background-color:rgb(206, 197, 197) !important;
+    }
+    }
